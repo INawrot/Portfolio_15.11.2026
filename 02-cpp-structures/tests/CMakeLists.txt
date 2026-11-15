@@ -1,0 +1,2 @@
+add_executable(structures_test main.cpp)
+target_link_libraries(structures_test PRIVATE custom_structures)
